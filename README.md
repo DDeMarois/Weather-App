@@ -10,7 +10,7 @@
 ## Installation
 
 - npm install
-- npm render-build
+- npm run render-build
 - npm run start:dev
 
 ## Credits
